@@ -81,7 +81,7 @@ function App() {
 
   return (
     <div>
-      <h2>Blog Post</h2>
+      <h2>Blog Poster</h2>
       <Paper elevation={3} className={classes.paper}>
         <form
           className={classes.root}
